@@ -4,7 +4,7 @@
 Send SMS messages to your [Free Mobile](https://mobile.free.fr) account,
 in [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript).
 
-## Documentation
+## Documen5tation
 - [User guide](https://github.com/cedx/free-mobile.js/wiki)
 - [API reference](https://docs.belin.io/free-mobile.js)
 
